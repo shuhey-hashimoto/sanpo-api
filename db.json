@@ -62,5 +62,48 @@
       "regdate": "2021-08-17 18:00:15",
       "update": "2021-08-17 18:00:37"
     }
+  ],
+  "cards": [
+    {
+      "id":"SANPO-131700010760-1",
+      "owner_data": {
+        "name": "テスト太郎",
+        "kana": "テストタロウ",
+        "pay": "クレジットカード",
+        "status": 1
+      },
+      "pet_data": {
+        "name":"フレンチ　ぶぶか",
+        "animal":"犬",
+        "blood":"純血",
+        "breed":"フレンチブルドッグ",
+        "breed_other":"",
+        "birth":"2018-09-06",
+        "gender":"男の子",
+        "already":"有り",
+        "card_num":"130200010760",
+        "vaccine":"10種",
+        "vaccine_date":"2021-02-16",
+        "vaccine_hosp":"サンプル動物病院",
+        "rabies":"済",
+        "rabies_date":"2021-03-16",
+        "rabies_hosp":"サンプル動物病院",
+        "license_date":"2018-12-25",
+        "pet_img":"/data/pet/20210817/1/bcxd-jdfg-6yhf-7gjj.jpg",
+        "vaccine_img":"/data/pet/20210817/1/dfgd-7guf-22w2-6tyh.jpg",
+        "rabies_img":"/data/pet/20210817/1/546h-4etf-khgh-nfdf.jpg"
+      },
+      "card_data": {
+        "num":"131700010760",
+        "type":"免許証",
+        "color":"ブルー",
+        "require":"散歩は飼い主と一緒に限る",
+        "cmd_check":"1,,1,,1,,,,,1,",
+        "cmd_txt_1":"ハイタッチ",
+        "cmd_txt_2":"シャーク",
+        "cmd_txt_3":"ゴー",
+        "donate":"希望する"
+      }
+    }
   ]
 }
